@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CareFlow AI</string>
+    <string name="tagline">From clinical conversation to coordinated follow-up</string>
+    <string name="header_greeting">Good morning, Doctor</string>
+    <string name="header_subtitle">Let\'s keep today\'s care workflow organized.</string>
+    
+    <!-- Metrics -->
+    <string name="metric_today_consultations">Today\'s consultations</string>
+    <string name="metric_pending_followups">Pending follow-ups</string>
+    <string name="metric_ai_review">AI items awaiting review</string>
+    
+    <!-- Quick Actions -->
+    <string name="action_new_consultation">+ New Consultation</string>
+    <string name="action_continue_draft">Continue Draft</string>
+    <string name="action_pending_followups">Pending Follow-ups</string>
+    <string name="action_capture_document">Capture Document</string>
+    <string name="action_use_demo">Use Demo Consultation</string>
+    <string name="action_record_consultation">Record Consultation</string>
+    
+    <!-- Safety and Privacy -->
+    <string name="safety_disclaimer">CareFlow AI is a clinical workflow assistant. AI-generated content must be reviewed and approved by a qualified clinician before clinical use.</string>
+    <string name="privacy_note">No patient-identifying information is used in this prototype.</string>
+    <string name="doc_disclaimer">Extracted information requires clinician verification.</string>
+</resources>

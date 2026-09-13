@@ -1,0 +1,6 @@
+{
+  "name": "CareFlow AI",
+  "description": "From clinical conversation to coordinated follow-up. A phone-first clinical workflow copilot for doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
